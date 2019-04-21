@@ -2,10 +2,11 @@ package main
 
 import (
 	"crypto/tls"
-	"gosmtp/pkg/config"
-	"gosmtp/pkg/smtp"
 	"log"
 	"strings"
+
+	"github.com/LIYINGZHEN/gosmtp/pkg/config"
+	"github.com/LIYINGZHEN/gosmtp/pkg/smtp"
 )
 
 func main() {
