@@ -1,8 +1,8 @@
 # Go SMTP
 
-*其他语言* [🇺🇸](./README.en.md)
+*Read this in other languages* [🇨🇳](./README.md)
 
-## 如何使用
+## How to use
 
 Enable [Google Less secure app access](https://myaccount.google.com/lesssecureapps) temporary.
 
@@ -17,10 +17,10 @@ BODY="Happy Coding~" \
 make run
 ```
 
-## 欢迎提交 Issue 与 PR
+## Contributing
 
 Any kind of help would be appreciated!
 
-## 参考文献
+## Artiles
 
 - [Repository Structure](https://peter.bourgon.org/go-best-practices-2016/#repository-structure)
